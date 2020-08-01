@@ -1,0 +1,23 @@
+{
+  "name": "leetcode-javascript",
+  "version": "1.0.0",
+  "description": "This repository contains my solution of leetcode problems in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibhorsingh11/leetCode-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibhorsingh11/leetCode-JavaScript/issues"
+  },
+  "homepage": "https://github.com/vibhorsingh11/leetCode-JavaScript#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
